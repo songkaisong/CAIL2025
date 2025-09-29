@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7990f0c7-744c-4b74-898f-5f7882ea42c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cail_2025/baseline.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cail_2025/ground_truth_0.json" beforeDir="false" afterPath="$PROJECT_DIR$/cail_2025/ground_truth_0.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cail_2025/prediction.json" beforeDir="false" afterPath="$PROJECT_DIR$/cail_2025/prediction.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
